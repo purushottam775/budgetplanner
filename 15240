@@ -1,0 +1,11 @@
+MONGODB_URI=mongodb://localhost:27017/student-budget-planner
+JWT_SECRET=student_budget_planner_secret_key_2024
+PORT=3001
+
+# Email configuration
+SMTP_HOST=smtp.gmail.com
+SMTP_PORT=587
+SMTP_USER=patilpurushottam775@gmail.com
+SMTP_PASS=abcd efgh ijkl mnop
+SMTP_SECURE=false
+FRONTEND_URL=http://localhost:3001
